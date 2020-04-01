@@ -1,7 +1,25 @@
 # Melvin Witte Deedy Resume
 
 ## Compilation
-Use `xelatex deedy-resume-openfonts.xtx`. For some reason, the `xetex` command throws errors.
+```
+xelatex deedy-resume-openfonts.xtx
+```
+
+## Changelog
+### v1.3
+1. Added an "Extracurricular Activies" section on a second page
+
+### v1.2
+1. Added publications in place of societies
+2. Collpased a portion of education
+3. Fixed a bug with alignment of overflowing long last updated dates on the top right
+
+### v1.3
+1. Fixed several compilation bugs with \renewcommand
+2. Got Open-source fonts (Windows/Linux support)
+3. Added Last Updated
+4. Moved Title styling into .sty
+5. Commented .sty file
 
 ## License
     Copyright 2014 Debarghya Das
