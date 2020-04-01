@@ -94,14 +94,13 @@
 \section{Links} 
 Github:// \href{https://github.com/mewitte}{\bf mewitte} \\
 LinkedIn://  \href{https://www.linkedin.com/in/melvin-witte-41b499121/}{\bf Melvin Witte} \\
-StackOverflow:// \href{https://stackoverflow.com/users/5460275/melvin-witte?tab=profile}{Melvin Witte}
 
 \section{Coursework}
 \subsection{Undergraduate}
 Human Computer Interaction - Personal Fabrication \\
-{\footnotesize \textit{\textbf{(Research Asst.)}}} \\
+{\footnotesize \textbf{(Research Asst.)}} \\
 Operating Systems \\
-{\footnotesize \textit{\textbf{(Research Asst. \& Bachelor Thesis)}}} \\
+{\footnotesize \textbf{(Research Asst. \& Bachelor Thesis)}} \\
 Database Systems \\
 Internet Technologies \\
 Agile Software Development in Large Teams \\
@@ -137,27 +136,27 @@ Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} 
 \location{March 2019 - Present | Berlin, BE}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Managing the AWS Infrastructure with Terraform
-\item Creating the AWS AMI for the Interface between several Malagasy Service Providers and the mTOMADY backend with Packer and Ansible
-\item Automating GSM Calls for Customer and Commission Payouts on a Raspberry Pi with USB Modems using Ruby, serviced, Ansible, SQS
-\item Improving the CircleCI workflows
+\item Managing the \textbf{AWS Infrastructure} with \textbf{Terraform}
+\item Creating the \textbf{AWS AMI} for the \textbf{Interface} between several Malagasy Service Providers and the mTOMADY backend with \textbf{Packer} and \textbf{Ansible}
+\item Automating \textbf{GSM Calls} for Customer and Commission \textbf{Payouts} on a \textbf{Raspberry Pi} with \textbf{USB Modems} using \textbf{Ruby, serviced, Ansible, SQS}
+\item Improving the \textbf{CircleCI workflows}
 \end{tightemize}
 \sectionsep
 
 \runsubsection{Freelance Software Developer}
 \descript{| Schäfers Optik Berlin}
 \location{Oct 2019 - Present | Berlin, BE}
-Designing and implementing a Customer Management System specialized for Opticians using Electron, Sequelize ORM, SQLite3, Material Design and Materialize
+\textbf{Designing} and \textbf{implementing} a \textbf{Customer Management System} specialized for Opticians using \textbf{Electron, Sequelize ORM, SQLite3, Material Design and Materialize}
 \sectionsep
 
 \runsubsection{\lowercase{\href{https://hpi.de/en/index.html}}{HPI} and \lowercase{\href{https://www.dbsystel.de/dbsystel-en}}{DB Systel}}
 \descript{| Bachelor Project and Thesis}
 \location{Oct 2017 - Sep 2018 | Berlin, BE}
-\location{\enquote{Using CI/CD for QA of a Mobile Blockchain Application} - Grade: 1.3}
+\location{\textit{\enquote{Using CI/CD for QA of a Mobile Blockchain Application}} - Grade: 1.3}
 \begin{tightemize}
-\item Developing a Hyperledger Application with JavaScript, an Android Frontend with Java and a Python RESTful backend
-\item Developing CI scripts for GitLab
-\item Developing CD scripts for Hyperledger to enable fast user tests
+\item Developing a \textbf{Hyperledger Application} with \textbf{JavaScript}, an \textbf{Android Frontend with Java} and a \textbf{Python RESTful backend}
+\item Developing \textbf{CI scripts for GitLab}
+\item Developing \textbf{CD scripts for Hyperledger} to enable fast user tests
 \end{tightemize}
 \sectionsep
 
@@ -165,10 +164,10 @@ Designing and implementing a Customer Management System specialized for Optician
 \descript{| Internship Software Developer}
 \location{Jun 2016 - Dec 2016 | Berlin, BE}
 \begin{tightemize}
-\item Processing Data in Real Time (i.e. speed cameras, traffic jams)
-\item Setting up an HTML server to test Encrypted Messages with Java
-\item Parsing Incoming Map Data to fit the required Data Structure
-\item Evaluating different Message Formats to optimize sent and received Mobile Data
+\item \textbf{Processing Data} in Real Time (i.e. speed cameras, traffic jams)
+\item Setting up an \textbf{SSL Server} to \textbf{test Encrypted Messages} with \textbf{Java}
+\item \textbf{Parsing Incoming Map Data} to fit the required Data Structure
+\item \textbf{Evaluating} different \textbf{Message Encryptions and Compressions} to \textbf{optimize} sent and received \textbf{Mobile Data}
 \end{tightemize}
 \sectionsep
 
@@ -177,8 +176,8 @@ Designing and implementing a Customer Management System specialized for Optician
 \descript{| Research Assistant}
 \location{Oct 2017 – Mai 2018 | Potsdam, BB}
 \begin{tightemize}
-\item Experiments with a \textbf{\href{https://github.com/arneboockmeyer/docker-network-simulator}{Docker based Network Simulator}}, written in Python
-\item Preparing presentations and sources on Blockchain topics
+\item Experiments with a \textbf{\href{https://github.com/arneboockmeyer/docker-network-simulator}{Docker based Network Simulator}}, written in \textbf{Python}
+\item Preparing presentations and sources on /textbf{Blockchain} topics
 \end{tightemize}
 \sectionsep
 
@@ -186,10 +185,10 @@ Designing and implementing a Customer Management System specialized for Optician
 \descript{| Research Assistant}
 \location{Feb 2017 – Oct 2017 | Potsdam, BB}
 \begin{tightemize}
-\item Developing \textbf{\href{https://hpi.de/baudisch/projects/trussformer-3d-printing-large-kinetic-structures.html}{TrussFormer}}, a SketchUp Plugin written in Ruby
-\item Building large-scale Kinetic Structures
-\item Simulating Physical Forces on the Model
-\item Create 3D-Blueprints for different Parts of the Model
+\item Developing \textbf{\href{https://hpi.de/baudisch/projects/trussformer-3d-printing-large-kinetic-structures.html}{TrussFormer}}, a \textbf{SketchUp Plugin} written in \textbf{Ruby}
+\item Building large-scale \textbf{Kinetic Structures}
+\item \textbf{Simulating Physical Forces} on the Model
+\item Create \textbf{3D-Blueprints} for different Parts of the Model
 \end{tightemize} 
 \sectionsep
 
@@ -211,16 +210,16 @@ Designing and implementing a Customer Management System specialized for Optician
 \runsubsection{HPI - Website Club}
 \descript{}
 \begin{tightemize}
-\item Maintaining and improving a Student Portal with Rails
-\item Updating a tool to plan the Focus Areas of your Studies with JavaScript
+\item Maintaining and improving a \textbf{Student Portal} with \textbf{Rails}
+\item Updating a tool to \textbf{plan the Focus Areas} of your Studies with \textbf{JavaScript}
 \end{tightemize}
 
 \runsubsection{Performance-oriented Volleyball}
 \descript{}
 \begin{tightemize}
 \item Playing performance oriented Volleyball since I was 7
-\item Currently playing 3rd Bundesliga
-\item Leading the Youth Team of the BR Volleys as Team Captain for 6 Years
+\item Currently playing \textbf{3rd Bundesliga}
+\item Leading the Youth Team of the \textbf{BR Volleys} as \textbf{Team Captain} for 6 Years
 \item 10 Berlin Championship titles
 \item 2 Bronze Medals at the German Youth Championship
 \item 8 Participations at German Youth Championships (Indoor and Beach-Volleyball)
@@ -230,18 +229,18 @@ Designing and implementing a Customer Management System specialized for Optician
 \runsubsection{Coaching Volleyball}
 \descript{}
 \begin{tightemize}
-\item Indoor: Coaching a Youth Team for the last 2 years, twice a weak
-\item Creating Training Schedules for the Athletes
-\item Organizing Youth Tournaments
-\item Beach-Volleyball: Coaching an adult Training Group, once a week
+\item Indoor: Coaching a \textbf{Youth Team} for the last 2 years, twice a weak
+\item \textbf{Creating Training Schedules} for the Athletes
+\item \textbf{Organizing} Youth \textbf{Tournaments}
+\item Beach-Volleyball: Coaching an \textbf{adult Training Group}, once a week
 \end{tightemize}
 
 \runsubsection{Cultural Exchanges}
 \descript{}
 \begin{tightemize}
-\item French-German School Exchange in 9th grade
+\item \textbf{French-German School Exchange} in 9th grade
 \item Visiting Paris and Hosting my French Guest for 2 weeks, living in guest families
-\item Israeli-German Volleyball Club Exchange in 2019
+\item \textbf{Israeli-German Volleyball Club Exchange} in 2019
 \item Visiting different parts of Israel for 10 days
 \item Hosting my Israeli Guest for 2 weeks
 \end{tightemize}
