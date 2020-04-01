@@ -47,25 +47,14 @@
 
 \documentclass[]{deedy-resume-openfont}
 \usepackage{fancyhdr}
-\usepackage{csquotes}
  
 \pagestyle{fancy}
 \fancyhf{}
  
 \begin{document}
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-%     LAST UPDATED DATE
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \lastupdated
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%
-%     TITLE NAME
-%
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Witte}{Melvin}{ \urlstyle{same}\href{https://mewitte.com}{mewitte.com} |
 \href{mailto:melvin.witte@gmail.com}{melvin.witte@gmail.com} | +49 176/43531959 | Quarzweg 66, 12349 Berlin
 }
@@ -78,39 +67,27 @@
 
 \begin{minipage}[t]{0.33\textwidth} 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EDUCATION
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \section{Education}
 
 \subsection{Hasso Plattner Institute}
 \descript{BSc in IT Systems Engineering}
 \location{Jan 2020 | Potsdam, BB}
 \location{University of Potsdam}
-\location{ Grade: Good, 2.0 }
+\location{Grade: Good, 2.0}
 \sectionsep
 
 \subsection{Eckener-Gymnasium}
 \location{Grad. June 2013 | Berlin, BE}
-\location{ Grade: Good, 1.8 }
+\location{Grade: Good, 1.8}
 \location{Award for Outstanding Achievements in High School Mathematics}
 \sectionsep
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     LINKS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Links} 
 Github:// \href{https://github.com/mewitte}{\bf mewitte} \\
 LinkedIn://  \href{https://www.linkedin.com/in/melvin-witte-41b499121/}{\bf Melvin Witte} \\
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     COURSEWORK
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+StackOverflow:// \href{https://stackoverflow.com/users/5460275/melvin-witte?tab=profile}{Melvin Witte}
 
 \section{Coursework}
-
 \subsection{Undergraduate}
 Human Computer Interaction - Personal Fabrication \\
 {\footnotesize \textit{\textbf{(Research Asst.)}}} \\
@@ -120,10 +97,6 @@ Database Systems \\
 Internet Technologies \\
 Agile Software Development in Large Teams \\
 Implementing Design Patterns \\
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     SKILLS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Skills}
 \subsection{Programming}
@@ -147,11 +120,7 @@ Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} 
 
 \end{minipage} 
 \hfill
-\begin{minipage}[t]{0.66\textwidth} 
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     EXPERIENCE
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{minipage}[t]{0.66\textwidth}
 
 \section{Experience}
 \runsubsection{mTOMADY}
@@ -194,10 +163,6 @@ Designing and implementing a Customer Management System specialized for Optician
 \end{tightemize}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     RESEARCH
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \section{Research}
 \runsubsection{HPI - OS and Middleware}
 \descript{| Research Assistant}
@@ -219,10 +184,6 @@ Designing and implementing a Customer Management System specialized for Optician
 \end{tightemize} 
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     PUBLICATIONS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 \section{Publications} 
 \renewcommand\refname{\vskip -1.5em} % Couldn't get this working from the .cls file
 \bibliographystyle{abbrv}
@@ -231,12 +192,12 @@ Designing and implementing a Customer Management System specialized for Optician
 
 \end{minipage}
 
-\clearpage
-\section{Extracurricular Activities}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Extra Page
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     AWARDS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\clearpage
+\section{Extra(curricular Activities)}
 
 \runsubsection{HPI - Website Club}
 \descript{}
@@ -264,6 +225,16 @@ Designing and implementing a Customer Management System specialized for Optician
 \item Creating Training Schedules for the Athletes
 \item Organizing Youth Tournaments
 \item Beach-Volleyball: Coaching an adult Training Group, once a week
+\end{tightemize}
+
+\runsubsection{Cultural Exchanges}
+\descript{}
+\begin{tightemize}
+\item French-German School Exchange in 9th grade
+\item Visiting Paris and Hosting my French Guest for 2 weeks, living in guest families
+\item Israeli-German Volleyball Club Exchange in 2019
+\item Visiting different parts of Israel for 10 days
+\item Hosting my Israeli Guest for 2 weeks
 \end{tightemize}
 
 \end{document}  \documentclass[]{article}
