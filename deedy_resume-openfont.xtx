@@ -78,7 +78,7 @@
 
 \section{Education}
 
-\subsection{Hasso Plattner Institute}
+\href{https://hpi.de/en/index.html}{\subsection{Hasso Plattner Institute}}
 \descript{BSc in IT Systems Engineering}
 \location{Jan 2020 | Potsdam, BB}
 \location{University of Potsdam}
@@ -118,7 +118,7 @@ Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} 
 
 \subsection{Languages}
 \location{German: native}
-\location{English: fluent}
+\location{English: CEFR C1}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -132,26 +132,26 @@ Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} 
 \begin{minipage}[t]{0.66\textwidth}
 
 \section{Experience}
-\runsubsection{mTOMADY}
-\descript{| DevOps and Infrastructure Engineer }
+\runsubsection{\href{https://www.mtomady.de/}{mTOMADY}}
+\descript{| DevOps and Infrastructure Engineer}
 \location{March 2019 - Present | Berlin, BE}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Managing the AWS Infrastructure with Terraform, especially secret management
+\item Managing the AWS Infrastructure with Terraform
 \item Creating the AWS AMI for the Interface between several Malagasy Service Providers and the mTOMADY backend with Packer and Ansible
 \item Automating GSM Calls for Customer and Commission Payouts on a Raspberry Pi with USB Modems using Ruby, serviced, Ansible, SQS
 \item Improving the CircleCI workflows
 \end{tightemize}
 \sectionsep
 
-\runsubsection{Schäfers Optik Berlin}
-\descript{| Freelance Software Developer }
+\runsubsection{Freelance Software Developer}
+\descript{| Schäfers Optik Berlin}
 \location{Oct 2019 - Present | Berlin, BE}
 Designing and implementing a Customer Management System specialized for Opticians using Electron, Sequelize ORM, SQLite3, Material Design and Materialize
 \sectionsep
 
-\runsubsection{HPI and DB Systel}
-\descript{| Bachelor Project and Thesis }
+\runsubsection{\lowercase{\href{https://hpi.de/en/index.html}}{HPI} and \lowercase{\href{https://www.dbsystel.de/dbsystel-en}}{DB Systel}}
+\descript{| Bachelor Project and Thesis}
 \location{Oct 2017 - Sep 2018 | Berlin, BE}
 \location{\enquote{Using CI/CD for QA of a Mobile Blockchain Application} - Grade: 1.3}
 \begin{tightemize}
@@ -161,8 +161,8 @@ Designing and implementing a Customer Management System specialized for Optician
 \end{tightemize}
 \sectionsep
 
-\runsubsection{TomTom - Live Team}
-\descript{| Internship Software Developer }
+\runsubsection{\href{https://www.tomtom.com/en_us/}{TomTom - Live Team}}
+\descript{| Internship Software Developer}
 \location{Jun 2016 - Dec 2016 | Berlin, BE}
 \begin{tightemize}
 \item Processing Data in Real Time (i.e. speed cameras, traffic jams)
@@ -173,7 +173,7 @@ Designing and implementing a Customer Management System specialized for Optician
 \sectionsep
 
 \section{Research}
-\runsubsection{HPI - OS and Middleware}
+\runsubsection{\href{https://www.dcl.hpi.uni-potsdam.de/}{HPI - OS and Middleware}}
 \descript{| Research Assistant}
 \location{Oct 2017 – Mai 2018 | Potsdam, BB}
 \begin{tightemize}
@@ -182,7 +182,7 @@ Designing and implementing a Customer Management System specialized for Optician
 \end{tightemize}
 \sectionsep
 
-\runsubsection{HPI - Human Computer Interaction}
+\runsubsection{\lowercase{\href{https://hpi.de/baudisch/home.html}}{HPI - Human Computer Interaction}}
 \descript{| Research Assistant}
 \location{Feb 2017 – Oct 2017 | Potsdam, BB}
 \begin{tightemize}
