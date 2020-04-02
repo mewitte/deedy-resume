@@ -108,7 +108,7 @@ Implementing Design Patterns \\
 
 \section{Skills}
 \subsection{Programming}
-JavaScript \textbullet{} Ruby \textbullet{} Rails \textbullet{} Python \textbullet{} \LaTeX\ \textbullet{} HTML5 \textbullet{} CSS3 \textbullet{} SQL \textbullet{} SQLite3
+JavaScript \textbullet{} Ruby \textbullet{} Rails \textbullet{} Python \textbullet{} \LaTeX\ \textbullet{} HTML5 \textbullet{} CSS3 \textbullet{} SVG \textbullet{} SQL \textbullet{} SQLite3
 \sectionsep
 
 \subsection{Methods and Tools}
@@ -117,7 +117,7 @@ Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} 
 
 \subsection{Languages}
 \location{German: native}
-\location{English: CEFR C1}
+\location{English: fluent, CEFR C1 certified}
 \sectionsep
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -238,11 +238,11 @@ Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} 
 \runsubsection{Cultural Exchanges}
 \descript{}
 \begin{tightemize}
-\item \textbf{French-German School Exchange} in 9th grade
-\item Visiting Paris and Hosting my French Guest for 2 weeks, living in guest families
-\item \textbf{Israeli-German Volleyball Club Exchange} in 2019
-\item Visiting different parts of Israel for 10 days
-\item Hosting my Israeli Guest for 2 weeks
+\item 	\textbf{French-German School Exchange} in 9th grade \\
+		Visiting Paris and Hosting my French Guest for 2 weeks, living in guest families
+\item 	\textbf{Israeli-German Volleyball Club Exchange} in 2019 \\
+		Visiting different parts of Israel for 10 days \\
+		Hosting my Israeli Guest for 2 weeks
 \end{tightemize}
 
 \end{document}  \documentclass[]{article}
