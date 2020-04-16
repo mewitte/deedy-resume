@@ -64,8 +64,12 @@
 
 \lastupdated
 
-\namesection{Witte}{Melvin}{ \urlstyle{same}\href{https://mewitte.com}{mewitte.com} |
-\href{mailto:melvin.witte@gmail.com}{melvin.witte@gmail.com} | +49 176/43531959 | Quarzweg 66, 12349 Berlin
+\namesection{Witte}{Melvin}{
+  \urlstyle{same}\href{https://mewitte.com}{mewitte.com} |
+  \href{mailto:melvin.witte@gmail.com}{melvin.witte@gmail.com} |
+  +49 176/43531959 | Quarzweg 66, 12349 Berlin
+  \noindent\rule{\textwidth}{1pt}
+  Currently I focus on \textbf{preparing and deploying machine images} for AWS and linux machines, as well as \textbf{fullstack web development}. In the future, I want to complete my master in a \textbf{software- or data-centric subject} and build data-centric applications to \textbf{aid people in their work}. With my professional sports experience, I am a \textbf{good team player} and can work with the \textbf{final goal and use for the customer in mind}.
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -155,8 +159,7 @@ Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} 
 \location{\textit{\enquote{Using CI/CD for QA of a Mobile Blockchain Application}} - Grade: 1.3}
 \begin{tightemize}
 \item Developing a \textbf{Hyperledger Application} with \textbf{JavaScript}, an \textbf{Android Frontend with Java} and a \textbf{Python RESTful backend}
-\item Developing \textbf{CI scripts for GitLab}
-\item Developing \textbf{CD scripts for Hyperledger} to enable fast user tests
+\item Developing \textbf{CI/CD scripts for Hyperledger} on \textbf{GitLab}
 \end{tightemize}
 \sectionsep
 
@@ -167,7 +170,7 @@ Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} 
 \item \textbf{Processing Data} in Real Time (i.e. speed cameras, traffic jams)
 \item Setting up an \textbf{SSL Server} to \textbf{test Encrypted Messages} with \textbf{Java}
 \item \textbf{Parsing Incoming Map Data} to fit the required Data Structure
-\item \textbf{Evaluating} different \textbf{Message Encryptions and Compressions} to \textbf{optimize} sent and received \textbf{Mobile Data}
+\item \textbf{Evaluating} several \textbf{Message Encryptions and Compressions} for \textbf{Optimization}
 \end{tightemize}
 \sectionsep
 
@@ -177,7 +180,7 @@ Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} 
 \location{Oct 2017 – Mai 2018 | Potsdam, BB}
 \begin{tightemize}
 \item Experiments with a \textbf{\href{https://github.com/arneboockmeyer/docker-network-simulator}{Docker based Network Simulator}}, written in \textbf{Python}
-\item Preparing presentations and sources on /textbf{Blockchain} topics
+\item Preparing presentations and sources on \textbf{Blockchain topics}
 \end{tightemize}
 \sectionsep
 

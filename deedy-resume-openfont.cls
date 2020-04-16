@@ -48,7 +48,7 @@ Last Updated on \today
 } \\[5pt]
 \centering{
 \color{headings}
-\fontspec[Path = fonts/raleway/]{Raleway-Medium}\fontsize{11pt}{14pt}\selectfont #3}
+\fontspec[Path = fonts/raleway/ , BoldFont = Raleway-Bold]{Raleway-Medium}\fontsize{11pt}{14pt}\selectfont #3}
 \noindent\makebox[\linewidth]{\color{headings}\rule{\paperwidth}{0.4pt}}
 \vspace{-15pt}
 }
@@ -82,4 +82,3 @@ Last Updated on \today
 \newenvironment{tightemize}{
 \vspace{-\topsep}\begin{itemize}\itemsep1pt \parskip0pt \parsep0pt}
 {\end{itemize}\vspace{-\topsep}}
-
