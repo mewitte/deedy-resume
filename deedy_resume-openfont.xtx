@@ -65,11 +65,10 @@
 \lastupdated
 
 \namesection{Witte}{Melvin}{
-  \urlstyle{same}\href{https://mewitte.com}{mewitte.com} |
-  \href{mailto:melvin.witte@gmail.com}{melvin.witte@gmail.com} |
+  \urlstyle{same}\href{mailto:melvin.witte@gmail.com}{melvin.witte@gmail.com} |
   +49 176/43531959 | Quarzweg 66, 12349 Berlin
   \noindent\rule{\textwidth}{1pt}
-  Currently I focus on \textbf{preparing and deploying machine images} for AWS and linux machines, as well as \textbf{fullstack web development}. In the future, I want to complete my master in a \textbf{software- or data-centric subject} and build data-centric applications to \textbf{aid people in their work}. With my professional sports experience, I am a \textbf{good team player} and can work with the \textbf{final goal and use for the customer in mind}.
+  Currently I focus on \textbf{preparing and deploying machine images} for AWS and linux machines, as well as \textbf{distributed systems and IoT} to enable \textbf{innovative use of existing devices and workflows}. I intend to complete my master in a \textbf{software- or data-centric subject} and build data-centric applications to \textbf{aid people in their work}. With my professional sports experience, I've proven that I am a \textbf{good team player} and that I strive to work with the \textbf{big picture and customers' benefit in mind}.
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -78,14 +77,18 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.33\textwidth} 
+\begin{minipage}[t]{0.34\textwidth} 
 
 \section{Education}
 
+\href{https://www.hu-berlin.de/en?set_language=en}{\subsection{Humboldt University}}
+\descript{MSc in Computer Science}
+\location{Currently enrolled | Berlin, BE}
+\sectionsep
+
 \href{https://hpi.de/en/index.html}{\subsection{Hasso Plattner Institute}}
 \descript{BSc in IT Systems Engineering}
-\location{Jan 2020 | Potsdam, BB}
-\location{University of Potsdam}
+\location{Grad. Jan 2020 | Potsdam, BB}
 \location{Grade: Good, 2.0}
 \sectionsep
 
@@ -100,23 +103,24 @@ Github:// \href{https://github.com/mewitte}{\bf mewitte} \\
 LinkedIn://  \href{https://www.linkedin.com/in/melvin-witte-41b499121/}{\bf Melvin Witte} \\
 
 \section{Coursework}
-\subsection{Undergraduate}
-Human Computer Interaction - Personal Fabrication \\
+Human Computer Interaction \\
 {\footnotesize \textbf{(Research Asst.)}} \\
 Operating Systems \\
 {\footnotesize \textbf{(Research Asst. \& Bachelor Thesis)}} \\
 Database Systems \\
 Internet Technologies \\
-Agile Software Development in Large Teams \\
-Implementing Design Patterns \\
+Agile Software Development \\
+Software Design Patterns \\
+\noindent\rule{\textwidth}{1pt}
+I can provide \textbf{Uni Projects} on request
 
 \section{Skills}
 \subsection{Programming}
-JavaScript \textbullet{} Ruby \textbullet{} Rails \textbullet{} Python \textbullet{} \LaTeX\ \textbullet{} HTML5 \textbullet{} CSS3 \textbullet{} SVG \textbullet{} SQL \textbullet{} SQLite3
+JavaScript \textbullet{} Ruby \textbullet{} Python \textbullet{} C++ \textbullet{} \LaTeX\ \textbullet{} HTML5 \textbullet{} CSS3 \textbullet{} SVG \textbullet{} SQL \textbullet{} SQLite3
 \sectionsep
 
 \subsection{Methods and Tools}
-Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} CI/CD \textbullet{} AWS \textbullet{} Sequelize ORM \textbullet{} Terraform \textbullet{} Packer \textbullet{} Docker \textbullet{} Ansible \textbullet{} Linux \textbullet{} systemd \textbullet{} Raspberry Pi \textbullet{} CircleCI \textbullet{} GitlabCI \textbullet{} Zotero
+Git \textbullet{} Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} CI/CD \textbullet{} AWS \textbullet{} Sequelize ORM \textbullet{} Terraform \textbullet{} Packer \textbullet{} Docker \textbullet{} Ansible \textbullet{} Linux \textbullet{} systemd \textbullet{} Raspberry Pi \textbullet{} Microcontroller \textbullet{} Zotero
 \sectionsep
 
 \subsection{Languages}
@@ -132,7 +136,7 @@ Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} 
 
 \end{minipage} 
 \hfill
-\begin{minipage}[t]{0.66\textwidth}
+\begin{minipage}[t]{0.65\textwidth}
 
 \section{Experience}
 \runsubsection{\href{https://www.mtomady.de/}{mTOMADY}}
