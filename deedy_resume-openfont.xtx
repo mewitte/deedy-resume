@@ -100,7 +100,7 @@
 
 \section{Links} 
 Github:// \href{https://github.com/mewitte}{\bf mewitte} \\
-LinkedIn://  \href{https://www.linkedin.com/in/melvin-witte-41b499121/}{\bf Melvin Witte} \\
+StackOverflow://  \href{https://stackoverflow.com/users/5460275/melvin-witte}{\bf Melvin Witte} \\
 
 \section{Coursework}
 Human Computer Interaction \\
@@ -116,11 +116,11 @@ I can provide \textbf{Uni Projects} on request
 
 \section{Skills}
 \subsection{Programming}
-JavaScript \textbullet{} Ruby \textbullet{} Python \textbullet{} C++ \textbullet{} \LaTeX\ \textbullet{} HTML5 \textbullet{} CSS3 \textbullet{} SVG \textbullet{} SQL \textbullet{} SQLite3
+JavaScript \textbullet{} Ruby \textbullet{} Ruby on Rails \textbullet{} Python \textbullet{} C++ \textbullet{} \LaTeX\ \textbullet{} HTML5 \textbullet{} CSS3 \textbullet{} SVG \textbullet{} SQL \textbullet{} SQLite3
 \sectionsep
 
 \subsection{Methods and Tools}
-Git \textbullet{} Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} CI/CD \textbullet{} AWS \textbullet{} Sequelize ORM \textbullet{} Terraform \textbullet{} Packer \textbullet{} Docker \textbullet{} Ansible \textbullet{} Linux \textbullet{} systemd \textbullet{} Raspberry Pi \textbullet{} Microcontroller \textbullet{} Zotero
+Git \textbullet{} Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} CI/CD \textbullet{} AWS \textbullet{} Sequelize ORM \textbullet{} Terraform \textbullet{} Packer \textbullet{} Docker \textbullet{} Ansible \textbullet{} Linux \textbullet{} systemd \textbullet{} Zotero
 \sectionsep
 
 \subsection{Languages}
@@ -144,17 +144,13 @@ Git \textbullet{} Material Design \textbullet{} Agile \textbullet{} Fault Tolera
 \location{March 2019 - Present | Berlin, BE}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
+\item Working student and freelancer
 \item Managing the \textbf{AWS Infrastructure} with \textbf{Terraform}
 \item Creating the \textbf{AWS AMI} for the \textbf{Interface} between several Malagasy Service Providers and the mTOMADY backend with \textbf{Packer} and \textbf{Ansible}
 \item Automating \textbf{GSM Calls} for Customer and Commission \textbf{Payouts} on a \textbf{Raspberry Pi} with \textbf{USB Modems} using \textbf{Ruby, serviced, Ansible, SQS}
 \item Improving the \textbf{CircleCI workflows}
+\item Working on the \textbf{Ruby on Rails} app with \textbf{VueJS} frontend
 \end{tightemize}
-\sectionsep
-
-\runsubsection{Freelance Software Developer}
-\descript{| Schäfers Optik Berlin}
-\location{Oct 2019 - Present | Berlin, BE}
-\textbf{Designing} and \textbf{implementing} a \textbf{Customer Management System} specialized for Opticians using \textbf{Electron, Sequelize ORM, SQLite3, Material Design and Materialize}
 \sectionsep
 
 \runsubsection{\lowercase{\href{https://hpi.de/en/index.html}}{HPI} and \lowercase{\href{https://www.dbsystel.de/dbsystel-en}}{DB Systel}}
