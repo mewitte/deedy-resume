@@ -3,9 +3,14 @@
 ## Compilation
 ```
 xelatex deedy-resume-openfonts.xtx
+bibtex deedy_resume-openfont
+xelatex deedy-resume-openfonts.xtx
 ```
 
 ## Changelog
+### v1.4
+1. Added cover letter template from https://github.com/apurvmishra99/Deedy-Cover-Letter
+
 ### v1.3
 1. Added an "Extracurricular Activies" section on a second page
 
@@ -14,7 +19,7 @@ xelatex deedy-resume-openfonts.xtx
 2. Collpased a portion of education
 3. Fixed a bug with alignment of overflowing long last updated dates on the top right
 
-### v1.3
+### v1.1
 1. Fixed several compilation bugs with \renewcommand
 2. Got Open-source fonts (Windows/Linux support)
 3. Added Last Updated
