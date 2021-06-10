@@ -66,9 +66,9 @@
 
 \namesection{Witte}{Melvin}{
   \urlstyle{same}\href{mailto:melvin.witte@gmail.com}{melvin.witte@gmail.com} |
-  +49 176/43531959 | Quarzweg 66, 12349 Berlin
+  +49 176/43531959 | Quartiersweg 6, 10829 Berlin
   \noindent\rule{\textwidth}{1pt}
-  Currently I focus on \textbf{preparing and deploying machine images} for AWS and linux machines, as well as \textbf{distributed systems and IoT} to enable \textbf{innovative use of existing devices and workflows}. I intend to complete my master in a \textbf{software- or data-centric subject} and build data-centric applications to \textbf{aid people in their work}. With my professional sports experience, I've proven that I am a \textbf{good team player} and that I strive to work with the \textbf{big picture and customers' benefit in mind}.
+  I am a freelancer with focus on \textbf{cloud infrastructure} and \textbf{web development}. I strive to solve problems in a scalable and sustainable way. With my professional sports experience as a player and coach I've proven that I am a \textbf{good team player} and that I strive to work with the \textbf{big picture and customers' benefit in mind}.
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -81,11 +81,6 @@
 
 \section{Education}
 
-\href{https://www.hu-berlin.de/en?set_language=en}{\subsection{Humboldt University}}
-\descript{MSc in Computer Science}
-\location{Currently enrolled | Berlin, BE}
-\sectionsep
-
 \href{https://hpi.de/en/index.html}{\subsection{Hasso Plattner Institute}}
 \descript{BSc in IT Systems Engineering}
 \location{Grad. Jan 2020 | Potsdam, BB}
@@ -97,10 +92,6 @@
 \location{Grade: Good, 1.8}
 \location{Award for Outstanding Achievements in High School Mathematics}
 \sectionsep
-
-\section{Links} 
-Github:// \href{https://github.com/mewitte}{\bf mewitte} \\
-StackOverflow://  \href{https://stackoverflow.com/users/5460275/melvin-witte}{\bf Melvin Witte} \\
 
 \section{Coursework}
 Human Computer Interaction \\
@@ -120,7 +111,7 @@ JavaScript \textbullet{} Ruby \textbullet{} Ruby on Rails \textbullet{} Python \
 \sectionsep
 
 \subsection{Methods and Tools}
-Git \textbullet{} Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} CI/CD \textbullet{} AWS \textbullet{} Sequelize ORM \textbullet{} Terraform \textbullet{} Packer \textbullet{} Docker \textbullet{} Ansible \textbullet{} Linux \textbullet{} systemd \textbullet{} Zotero
+Git \textbullet{} Material Design \textbullet{} Agile \textbullet{} Fault Tolerance \textbullet{} CI/CD \textbullet{} AWS \textbullet{} GCP \textbullet{} Sequelize ORM \textbullet{} Terraform \textbullet{} Packer \textbullet{} Docker \textbullet{} Ansible \textbullet{} Linux \textbullet{} systemd \textbullet{} Zotero
 \sectionsep
 
 \subsection{Languages}
@@ -139,12 +130,31 @@ Git \textbullet{} Material Design \textbullet{} Agile \textbullet{} Fault Tolera
 \begin{minipage}[t]{0.65\textwidth}
 
 \section{Experience}
+
+\runsubsection{Freelancer}
+\descript{| Cloud Engineer and Web Developer}
+\location{January 2020 - now | Berlin, BE}
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\vspace{0.3em}
+\begin{tightemize}
+\item \textbf{Macron Store Munich} \\
+      \textbf{Consultation, Design} and \textbf{Implementation} of their online presence and store
+\item \textbf{Idera/Ranorex Studio} \\ 
+      \textbf{DevOps} and \textbf{Coding} Support - \textbf{Jira, Testrail, Git, Azure DevOps, Jenkins, C\#, Selenium}
+\item \textbf{mTOMADY} \\
+      Same as Working Student
+\item \textbf{Schäfer's Optik Berlin} \\
+      \textbf{Consultation} for and \textbf{Transition} to a new \textbf{Customer Management Software}
+\item \textbf{unternehmenstraining.berlin} \\
+      \textbf{Consultation} and \textbf{Design} of their \textbf{Website}
+\end{tightemize}
+\sectionsep
+
 \runsubsection{\href{https://www.mtomady.de/}{mTOMADY}}
 \descript{| DevOps and Infrastructure Engineer}
-\location{March 2019 - Present | Berlin, BE}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\location{March 2019 - January 2020 | Berlin, BE}
 \begin{tightemize}
-\item Working student and freelancer
+\item Working student
 \item Managing the \textbf{AWS Infrastructure} with \textbf{Terraform}
 \item Creating the \textbf{AWS AMI} for the \textbf{Interface} between several Malagasy Service Providers and the mTOMADY backend with \textbf{Packer} and \textbf{Ansible}
 \item Automating \textbf{GSM Calls} for Customer and Commission \textbf{Payouts} on a \textbf{Raspberry Pi} with \textbf{USB Modems} using \textbf{Ruby, serviced, Ansible, SQS}
@@ -174,6 +184,14 @@ Git \textbullet{} Material Design \textbullet{} Agile \textbullet{} Fault Tolera
 \end{tightemize}
 \sectionsep
 
+\end{minipage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     Extra Page
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\clearpage
+
 \section{Research}
 \runsubsection{\href{https://www.dcl.hpi.uni-potsdam.de/}{HPI - OS and Middleware}}
 \descript{| Research Assistant}
@@ -201,21 +219,7 @@ Git \textbullet{} Material Design \textbullet{} Agile \textbullet{} Fault Tolera
 \bibliography{publications}
 \nocite{*}
 
-\end{minipage}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     Extra Page
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\clearpage
-\section{Extra(curricular Activities)}
-
-\runsubsection{HPI - Website Club}
-\descript{}
-\begin{tightemize}
-\item Maintaining and improving a \textbf{Student Portal} with \textbf{Rails}
-\item Updating a tool to \textbf{plan the Focus Areas} of your Studies with \textbf{JavaScript}
-\end{tightemize}
+\section{Interests}
 
 \runsubsection{Performance-oriented Volleyball}
 \descript{}
